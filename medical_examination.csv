@@ -1,0 +1,3 @@
+age,height,weight,gender,ap_hi,ap_lo,cholesterol,gluc,smoke,alco,active,cardio
+50,168,62,1,120,80,1,1,0,0,1,0
+45,160,70,0,130,90,2,2,1,0,0,1
